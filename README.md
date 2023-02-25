@@ -1,2 +1,2 @@
 # branch_test
-b1 2
+b1 3
